@@ -5,7 +5,9 @@
 
 ### Citation
 ```
-M. Kachuee, K. Kärkkäinen, O. Goldstein, S. Darabi, M. Sarrafzadeh, Generative Imputation and Stochastic Prediction, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020.
+M. Kachuee, K. Kärkkäinen, O. Goldstein, S. Darabi, M. Sarrafzadeh, 
+Generative Imputation and Stochastic Prediction, 
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020.
 ```
 
 ### Project Structure
